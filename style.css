@@ -98,3 +98,8 @@ footer {
     border-radius:10px;
     margin-bottom:15px;
 }
+
+.card a {
+    text-decoration:none;
+    color:inherit;
+}
